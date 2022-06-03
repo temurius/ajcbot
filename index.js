@@ -11,7 +11,7 @@ client.on('message', message => {
     if(message.content.startsWith(`${prefix}code`)) { 
         message.channel.send('le code de aujourdhui  est: 7324 ')
     } else if (message.content.startsWith(`${prefix}natalie`)) {
-        message.channel.send('Big Brother is Watching You !')
+        message.channel.send('Big Brother is Watching Youuuu!')
     }
 })
 client.login(token)
